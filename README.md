@@ -43,21 +43,18 @@ change config.env file in config folder
 ### Test the APIs Using Postman
 
 ### ADD Transaction
-#### : http://localhost:8000/api/v1/transactions
-Request : POST
+#### Request POST: http://localhost:8000/api/v1/transactions
 
   ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/add-transaction.png)
 
 ### GET All Transactions 
-#### : http://localhost:8000/api/v1/transactions
-Request : GET
+#### Request GET: http://localhost:8000/api/v1/transactions
 
   ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/get-all-transactions.png)
 
 
 ### DELETE Transaction 
-#### : http://localhost:8000/api/v1/transactions/:id
-Request : DELETE
+#### Request DELETE: http://localhost:8000/api/v1/transactions/:id
 
   ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/delete-transaction.png)
 
