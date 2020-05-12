@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <GlobalProvider>
-      <Header />
+      <Header /> 
       <div className="container">
         <Balance />
         <IncomeExpenses />
@@ -23,4 +23,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
