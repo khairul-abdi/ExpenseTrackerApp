@@ -1,6 +1,6 @@
 # [ExpenseTrackerApp](https://mernexpensetracker.herokuapp.com/)
 
-### In this App, we need 5 dependencies below:
+### In this App, we need 8 dependencies below:
 
 - Express.js
 - React.js
