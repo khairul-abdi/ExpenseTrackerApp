@@ -63,7 +63,7 @@ change config.env file in config folder
 
 ### ADD Transaction
 
-  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/add-transaction.png)
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/add.png)
 
 
 ### VIEW Transactions
@@ -71,6 +71,10 @@ change config.env file in config folder
   ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/view.png)
 
 
-### VIEW Transactions
+### DELETE Transactions
 
   ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/delete.png)
+
+### DATABASE Transactions
+
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/mongo.png)
