@@ -42,12 +42,38 @@ change config.env file in config folder
 
 ### Test the APIs Using Postman
 
-#### : http://localhost:5000/users/add
+### ADD Transaction
+#### : http://localhost:8000/api/v1/transactions
 Request : POST
-Key :
-  - username : ...
 
-  ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/user-add.png)
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/add-transaction.png)
+
+### GET All Transactions 
+#### : http://localhost:8000/api/v1/transactions
+Request : GET
+
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/get-all-transactions.png)
 
 
-### Demo
+### DELETE Transaction 
+#### : http://localhost:8000/api/v1/transactions/:id
+Request : DELETE
+
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/delete-transaction.png)
+
+
+### [Demo](https://mernexpensetracker.herokuapp.com/)
+
+### ADD Transaction
+
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/add-transaction.png)
+
+
+### VIEW Transactions
+
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/view.png)
+
+
+### VIEW Transactions
+
+  ![alt text](https://github.com/khairul-abdi/ExpenseTrackerApp/blob/master/client/public/img/screenshot/delete.png)
